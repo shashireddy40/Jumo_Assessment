@@ -1,0 +1,9 @@
+Network,Product,Month,tuple_agg
+'Network 1','Loan Product 2',Apr,"(1801.0, 1)"
+'Network 2','Loan Product 1',Apr,"(5671.0, 1)"
+'Network 2','Loan Product 3',Apr,"(1747.0, 1)"
+'Network 3','Loan Product 3',Apr,"(1928.0, 1)"
+'Network 1','Loan Product 1',Mar,"(1000.0, 1)"
+'Network 1','Loan Product 2',Mar,"(3098.0, 1)"
+'Network 2','Loan Product 1',Mar,"(1122.0, 1)"
+'Network 3','Loan Product 2',Mar,"(2084.0, 1)"
