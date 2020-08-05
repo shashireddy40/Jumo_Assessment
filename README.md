@@ -3,7 +3,8 @@
 
 1) Clone the repositary (Download the zip file)
 2) submit through input and output argumets with python 3 Command below
-   	python3 Jumo_Assign.py  Input/Loans.csv Output/output.csv
+
+		python3 Jumo_Assign.py  Input/Loans.csv Output/output.csv
 
 3)check the sample output at output folder
 
